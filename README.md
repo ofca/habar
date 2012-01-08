@@ -1,5 +1,4 @@
-# Kohana PHP Framework, version 3.2 (development)
+# Habar
 
-This is the current development version of [Kohana](http://kohanaframework.org/).
-
-For the most current release, see the 3.1/master branch.
+Habar serves media files and simplify some basic operations on them. It's still 
+work in progress so it can't be use on production.
